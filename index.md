@@ -1,6 +1,6 @@
 ![](cat.jpeg)
 
-* here is a cat. Cats are my favorite animal and most of the usernames I use for video games involve something related to a black panther or a cat. *
+*here is a cat. Cats are my favorite animal and most of the usernames I use for video games involve something related to a black panther or a cat.*
 
 # Info about Matthew Bozoukov
 
@@ -36,7 +36,7 @@ My top 3 favorite video games of all time are
 
 ![](zorua.jpeg)
 
-* here is a picture of my favorite dungeon in Majoras Mask. The dungeon is easily the most difficult to complete, but I liked it's asthetics a lot. *
+*here is a picture of my favorite dungeon in Majoras Mask. The dungeon is easily the most difficult to complete, but I liked it's asthetics a lot.*
 ## goals
 I like to set goals for myself. Here are some goals I have completed in the past, and some that I currently am working towards.
 - [x] submitted a paper to a top AI conference
