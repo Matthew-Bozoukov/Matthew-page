@@ -19,7 +19,7 @@ new_tensor=torch.randint((1,4))
 
 ```
 
-A project that I am proud of, that was turned into a paper can be found [here](github.com/djroytburg/steering_self_preference). and the paper can be found [here](https://arxiv.org/abs/2601.22548).
+A project that I am proud of, that was turned into a blog post is [here](https://www.lesswrong.com/posts/qwAiKvomuAm5ekC4D/transmitting-misalignment-with-subliminal-learning-via). A paper that I have worked on, that is now under review at ICML can be found [here](https://arxiv.org/abs/2601.22548).
 
 # Stuff I like to do in my free time
 
