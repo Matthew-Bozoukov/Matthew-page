@@ -14,10 +14,10 @@ I have experince with using
 
 To make a tensor in pytorch of random numbers of size (1,4) you do
 
-'''
+```
 new_tensor=torch.randint((1,4))
 
-'''
+```
 
 A project that I am proud of, that was turned into a paper can be found [here](github.com/djroytburg/steering_self_preference). and the paper can be found [here](https://arxiv.org/abs/2601.22548).
 
